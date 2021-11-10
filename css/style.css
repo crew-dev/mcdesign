@@ -296,4 +296,7 @@ select {
         grid-row-start: 16;
         grid-row-end: 25;
       }
+      .gallery {
+        grid-template-rows: repeat(1, 15.6vw);
+    }
   }
