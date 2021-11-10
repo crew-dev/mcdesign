@@ -95,7 +95,7 @@ select {
   .gallery {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
-    grid-template-rows: repeat(3, 15.6vw);
+    grid-template-rows: repeat(4, 15.6vw);
   }
    
   .gallery__img {
@@ -236,7 +236,7 @@ select {
     grid-column-start: 7;
     grid-column-end: 4;
     grid-row-start: 3;
-    grid-row-end: 5;
+    grid-row-end: 6;
   }
    
   .gallery__item--5 {
