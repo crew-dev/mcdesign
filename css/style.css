@@ -163,11 +163,11 @@ select {
 }
 
 .overlay-content {
-    position: relative;
-    top: 25%;
-    width: 100%;
-    text-align: center;
-    margin-top: 30px;
+  position: absolute;
+  top: 31%;
+  text-align: center;
+  width: 100%;
+  cursor: pointer;
 }
 
 .overlay a {
