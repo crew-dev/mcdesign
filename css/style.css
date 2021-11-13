@@ -315,14 +315,14 @@ a.navbar-item:focus:after {
       .gallery__item--4 {
         grid-column-start: 1;
         grid-column-end: 8;
-        grid-row-start: 13;
+        grid-row-start: 6;
         grid-row-end: 6;
       }
        
       .gallery__item--5 {
         grid-column-start: 1;
         grid-column-end: 7;
-        grid-row-start: 6;
+        grid-row-start: 7;
         grid-row-end: 15;
       }
        
