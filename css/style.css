@@ -78,10 +78,6 @@ select {
     cursor: pointer;
 }
 
-.gallery__img {
-  cursor: url("../img/plus_cursor.png") 25 25, pointer;
-}
-
 .header-logo {
     transition: ease-in-out 0.2s;
 }
