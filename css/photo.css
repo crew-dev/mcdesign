@@ -75,10 +75,6 @@ select {
     margin-bottom: 100px;
 }
 
-.frame-last {
-    margin-bottom: 0px;
-}
-
 img.header-logo {
     display: flex;
     align-items: center;
